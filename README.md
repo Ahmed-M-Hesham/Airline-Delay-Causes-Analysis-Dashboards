@@ -59,9 +59,9 @@ Each page includes **navigation buttons** for smooth movement between dashboard 
 ---
 
 ## 📸 Dashboard Preview:
-![Dashboard Screenshot](dashboard-preview1.png)
-![Dashboard Screenshot](dashboard-preview2.png)
-![Dashboard Screenshot](dashboard-preview3.png)
+![Dashboard Screenshot](dashboard-preview-1.png)
+![Dashboard Screenshot](dashboard-preview-2.png)
+![Dashboard Screenshot](dashboard-preview-3.png)
 
 
 ---
